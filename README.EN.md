@@ -1,7 +1,4 @@
 # RemcosDetector
-This tool detects whether the Remcos shadesould trojan has infected your Windows machine
-
-# RemcosDetector
 [íslenska](README.md)
 
 Last weekend (Okt 5-7 2018) a phishing attack was executed via an email that was sent in the name of the Police. This email was an attack vector for installation of a trojan on PCs running the Windows operating system. This tool can detect whether the Remcos shadesoul trojan has been installed.
