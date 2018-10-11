@@ -1,8 +1,9 @@
 # RemcosDetector
 [English](README.EN.md)
 
-Um síðastliðna helgi (5.-7. okt 2018) var svikapóstur sendur í nafni lögreglunnar. Þessi svikapóstur var dreifileið fyrir óværunni Remcos-shadesoul, sem getur sýkt tölvur sem keyra Windows-stýrikerfið. Þetta forrit, RemcosDetector, getur greint hvort vélin sé sýkt af Remcosshadesoul-óværunni.
-Ef þú fékkst umræddan svikapóst, smelltir á hlekkinn og hlóðst niður viðhengi sem var á svikasíðu sem pósturinn vísað á, getur þú hlaðið þessu forriti niður og kannað hvort tölvan þín sé sýkt. 
+Um síðastliðna helgi (5.-7. okt 2018) var svikapóstur sendur í nafni lögreglunnar. Þessi svikapóstur var dreifileið fyrir óværunni Remcos-shadesoul, sem getur sýkt tölvur sem keyra Windows-stýrikerfið. Þetta forrit, RemcosDetector, getur greint hvort vélin sé sýkt af Remcos-shadesoul-óværunni.
+
+Ef þú fékkst umræddan svikapóst, smelltir á hlekkinn og hlóðst niður viðhengi sem var á svikasíðu sem pósturinn vísaði á, getur þú hlaðið þessu forriti niður og kannað hvort tölvan þín sé sýkt. 
 
 ## Greiningin
 Alla jafna mælum við ekki  með að viðskiptavinir okkar keyra .exe-skrár beint af netinu. Það sem þetta forrit gerir er að athuga hvort þrjár skrár séu á vélinni þinni. Skrárnar sem um ræðir eru eftirfarandi:
