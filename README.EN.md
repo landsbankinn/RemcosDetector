@@ -1,7 +1,7 @@
 # RemcosDetector
 [íslenska](README.md)
 
-Last weekend (Okt 5-7 2018) a phishing attack was executed via an email that was sent in the name of the Police. This email was an attack vector for installation of a trojan on PCs running the Windows operating system. This tool can detect whether the Remcos shadesoul trojan has been installed.
+Last weekend (Oct 5-7 2018) a phishing attack was executed via an email that was sent in the name of the Icelandic police. This email was an attack vector for installation of a trojan on PCs running the Windows operating system. This tool can detect whether the Remcos shadesoul trojan has been installed.
 
 ## Detection
 Usually we would not recommend running an executable from the internet, not even from us. That is why we want to be fully transparent about this tool. What this tool does is detects whether three files are on the file system. The files we search for are the following:
